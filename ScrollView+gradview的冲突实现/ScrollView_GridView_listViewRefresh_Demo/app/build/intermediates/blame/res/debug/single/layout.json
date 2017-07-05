@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\workplace\\ScrollView_GridView_listViewRefresh_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "D:\\workplace\\ScrollView_GridView_listViewRefresh_Demo\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "E:\\code\\ScrollView_GridView_listViewRefresh_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\code\\ScrollView_GridView_listViewRefresh_Demo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workplace\\ScrollView_GridView_listViewRefresh_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "D:\\workplace\\ScrollView_GridView_listViewRefresh_Demo\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "D:\\workplace\\ScrollView_GridView_listViewRefresh_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
+        "source": "D:\\workplace\\ScrollView_GridView_listViewRefresh_Demo\\app\\src\\main\\res\\layout\\refresh_header.xml"
+    },
+    {
+        "merged": "E:\\code\\ScrollView_GridView_listViewRefresh_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item1.xml",
+        "source": "E:\\code\\ScrollView_GridView_listViewRefresh_Demo\\app\\src\\main\\res\\layout\\item1.xml"
+    },
+    {
+        "merged": "D:\\workplace\\ScrollView_GridView_listViewRefresh_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item1.xml",
+        "source": "D:\\workplace\\ScrollView_GridView_listViewRefresh_Demo\\app\\src\\main\\res\\layout\\item1.xml"
+    },
+    {
+        "merged": "D:\\workplace\\ScrollView_GridView_listViewRefresh_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_footer.xml",
+        "source": "D:\\workplace\\ScrollView_GridView_listViewRefresh_Demo\\app\\src\\main\\res\\layout\\refresh_footer.xml"
+    },
+    {
+        "merged": "D:\\workplace\\ScrollView_GridView_listViewRefresh_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workplace\\ScrollView_GridView_listViewRefresh_Demo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\code\\ScrollView_GridView_listViewRefresh_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_footer.xml",
+        "source": "E:\\code\\ScrollView_GridView_listViewRefresh_Demo\\app\\src\\main\\res\\layout\\refresh_footer.xml"
+    },
+    {
+        "merged": "E:\\code\\ScrollView_GridView_listViewRefresh_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
+        "source": "E:\\code\\ScrollView_GridView_listViewRefresh_Demo\\app\\src\\main\\res\\layout\\refresh_header.xml"
+    },
+    {
+        "merged": "E:\\code\\ScrollView_GridView_listViewRefresh_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "E:\\code\\ScrollView_GridView_listViewRefresh_Demo\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "E:\\code\\ScrollView_GridView_listViewRefresh_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\code\\ScrollView_GridView_listViewRefresh_Demo\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    }
+]

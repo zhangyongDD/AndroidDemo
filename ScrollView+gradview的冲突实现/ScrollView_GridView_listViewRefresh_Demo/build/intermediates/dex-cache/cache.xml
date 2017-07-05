@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\code\ScrollView_GridView_listViewRefresh_Demo\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\ScrollView_GridView_listViewRefresh_Demo\app\libs\myslidingmenu.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b5aa4254ffc0ad8b01b39851e0a3bebb813ff09">
+        <dex dex="E:\code\ScrollView_GridView_listViewRefresh_Demo\app\build\intermediates\pre-dexed\debug\myslidingmenu_9381fe281f79d430e12f93d0464f9fd162df3c26.jar" />
+    </item>
+
+</items>

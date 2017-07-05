@@ -1,0 +1,211 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/line_color"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="18dp"
+            android:background="@color/user_detail_bg"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/activity_setting_textview_updata"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:background="@drawable/selector_text"
+                android:drawableEnd="@mipmap/activity_user_detail_me_go_ico"
+                android:drawablePadding="10dp"
+                android:drawableRight="@mipmap/activity_user_detail_me_go_ico"
+                android:gravity="center_vertical|start"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"
+                android:paddingTop="10dp"
+                android:text="检测更新"
+                android:textColor="@color/title_bg"
+                android:textSize="13sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="@color/line_color" />
+
+            <TextView
+                android:id="@+id/activity_setting_textview_getmsg"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:background="@drawable/selector_text"
+                android:drawableEnd="@mipmap/activity_user_detail_me_go_ico"
+                android:drawablePadding="10dp"
+                android:drawableRight="@mipmap/activity_user_detail_me_go_ico"
+                android:gravity="center_vertical|start"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"
+                android:paddingTop="10dp"
+                android:text="同步消息"
+                android:textColor="@color/title_bg"
+                android:textSize="13sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="@color/line_color" />
+
+            <TextView
+                android:id="@+id/activity_setting_textview_loginout"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:background="@drawable/selector_text"
+                android:drawableEnd="@mipmap/activity_user_detail_me_go_ico"
+                android:drawablePadding="10dp"
+                android:drawableRight="@mipmap/activity_user_detail_me_go_ico"
+                android:gravity="center_vertical|start"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"
+                android:paddingTop="10dp"
+                android:text="退出登录"
+                android:textColor="@color/title_bg"
+                android:textSize="13sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="@color/line_color" />
+
+            <TextView
+                android:id="@+id/activity_setting_textview_select_panel"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:background="@drawable/selector_text"
+                android:drawableEnd="@mipmap/activity_user_detail_me_go_ico"
+                android:drawablePadding="10dp"
+                android:drawableRight="@mipmap/activity_user_detail_me_go_ico"
+                android:gravity="center_vertical|start"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"
+                android:paddingTop="10dp"
+                android:text="选择面板"
+                android:textColor="@color/title_bg"
+                android:textSize="13sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="@color/line_color" />
+
+            <TextView
+                android:id="@+id/activity_setting_textview_list"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:background="@drawable/selector_text"
+                android:drawableEnd="@mipmap/activity_user_detail_me_go_ico"
+                android:drawablePadding="10dp"
+                android:drawableRight="@mipmap/activity_user_detail_me_go_ico"
+                android:gravity="center_vertical|start"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"
+                android:paddingTop="10dp"
+                android:text="列表"
+                android:textColor="@color/title_bg"
+                android:textSize="13sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="@color/line_color" />
+
+            <TextView
+                android:id="@+id/activity_setting_textview_towbtn"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:background="@drawable/selector_text"
+                android:drawableEnd="@mipmap/activity_user_detail_me_go_ico"
+                android:drawablePadding="10dp"
+                android:drawableRight="@mipmap/activity_user_detail_me_go_ico"
+                android:gravity="center_vertical|start"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"
+                android:paddingTop="10dp"
+                android:text="两个按钮"
+                android:textColor="@color/title_bg"
+                android:textSize="13sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="@color/line_color" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="@color/line_color" />
+
+            <TextView
+                android:id="@+id/activity_setting_textview_countdown"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:background="@drawable/selector_text"
+                android:drawableEnd="@mipmap/activity_user_detail_me_go_ico"
+                android:drawablePadding="10dp"
+                android:drawableRight="@mipmap/activity_user_detail_me_go_ico"
+                android:gravity="center_vertical|start"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"
+                android:paddingTop="10dp"
+                android:text="倒计时"
+                android:textColor="@color/title_bg"
+                android:textSize="13sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="@color/line_color" />
+
+            <TextView
+                android:id="@+id/activity_setting_textview_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:background="@drawable/selector_text"
+                android:drawableEnd="@mipmap/activity_user_detail_me_go_ico"
+                android:drawablePadding="10dp"
+                android:drawableRight="@mipmap/activity_user_detail_me_go_ico"
+                android:gravity="center_vertical|start"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"
+                android:paddingTop="10dp"
+                android:text="不带标题的底部dialog"
+                android:textColor="@color/title_bg"
+                android:textSize="13sp" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

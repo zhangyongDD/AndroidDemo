@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_black">#333333</color>
+    <color name="alertdialog_line">#C6C6C6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="line_color">#dcdcdc</color>
+    <color name="find_password_bg_1">#eaeaea</color>
+    <color name="white">#ffffff</color>
+    <color name="title_bg">#081424 </color>
+    <color name="user_detail_bg">#f0f0f0</color>
+    <color name="dialog_orange">#FF7B02</color>
+
+</resources>
